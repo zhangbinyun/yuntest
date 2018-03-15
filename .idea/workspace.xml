@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cdcde6a-0c23-4d2c-8843-ecffb1ef2691" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../aaa/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../aaa/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8cdcde6a-0c23-4d2c-8843-ecffb1ef2691" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../aaa/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -624,7 +622,7 @@
       <option name="presentableId" value="Default" />
       <updated>1520996457309</updated>
       <workItem from="1520996461809" duration="5493000" />
-      <workItem from="1521078053501" duration="18000" />
+      <workItem from="1521078053501" duration="226000" />
     </task>
     <task id="LOCAL-00001" summary="IDEA整合git测试">
       <created>1521017517872</created>
@@ -651,7 +649,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5511000" />
+    <option name="totallyTimeSpent" value="5719000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
